@@ -2,4 +2,4 @@ config.py
 testing.py
 __pycache__/
 .vscode/
-.cer
+Certificates.cer
